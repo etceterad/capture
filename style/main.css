@@ -544,4 +544,10 @@ body{
     .offer-secondlink{
         padding: 14px 16px;
     }
+    .possibilities__title{
+        font-size: 18px;
+    }
+    .possibilities__text{
+        font-size: 16px;
+    }
 }
