@@ -521,13 +521,27 @@ body{
         margin-left: 0px;
         margin-top: 60px;
     }.form{
-        width: 400px;
+        width: 95%;
         display: block;
         text-align: center;
         height: 420px;
         margin-top: -200px;
     }
+    .second-column__input{
+        width: 100%;
+    }
+    .second-column__button{
+        width: 100%;
+        text-align: center;
+        padding: 14px 25px;
+    }
     .form-text{
         margin-bottom: -10px;
+    }
+    .offer-firstlink{
+        padding: 14px 22px;
+    }
+    .offer-secondlink{
+        padding: 14px 16px;
     }
 }
