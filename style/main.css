@@ -550,4 +550,7 @@ body{
     .possibilities__text{
         font-size: 16px;
     }
+    .form-title{
+        margin-right: auto;
+        margin-left: auto;
 }
